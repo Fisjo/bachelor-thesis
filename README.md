@@ -1,4 +1,4 @@
-﻿# 🛠️ Guía de Instalación y Configuración
+﻿# Guía de Instalación y Configuración
 
 Sigue estos pasos para configurar el entorno de desarrollo localmente y preparar los datos necesarios para el proyecto.
 
@@ -55,3 +55,4 @@ source venv/bin/activate
 ```
 
 Se ve (venv) al inicio de tu línea de comandos si se activó correctamente.
+
