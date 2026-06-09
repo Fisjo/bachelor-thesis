@@ -11,3 +11,6 @@ __pycache__/
 *.pyc
 .vscode/
 data/
+claude/
+
+data.zip
